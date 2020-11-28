@@ -9,3 +9,11 @@ Awesomesauce Evolutionary biologists, science lover and beginning programmer.
 > except in Light of Evolution
  
  _Theodosius Dobzhansky_
+ 
+ ## Some Python code to start the day, nicely arranged in a codeblock.
+ 
+ 
+    var1 = "Hello World!" 
+    print(var1)
+    print(len(var1))
+        
